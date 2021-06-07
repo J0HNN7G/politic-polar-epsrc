@@ -1,4 +1,4 @@
-anyio==2.1.0
+anyio
 argon2-cffi==20.1.0
 async-generator==1.10
 atomicwrites==1.4.0
@@ -14,7 +14,7 @@ cycler==0.10.0
 decorator==4.4.2
 defusedxml==0.6.0
 entrypoints==0.3
-idna==3.1
+idna
 iniconfig==1.1.1
 ipykernel==5.4.3
 ipython==7.20.0
